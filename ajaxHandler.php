@@ -45,6 +45,15 @@ Students were given a basic understanding of the file system hierarchy found in 
 </ul>
 </div>
 </div>
+
+<div class="item">
+<h3><a href="https://github.com/psibi/Typhoon">Typhoon</a></h3>
+<h4>Rainfall Prediction Application Using Machine Learning</h4>
+<div class="date">AUG 2011 - NOV 2011</div>
+<div class="description">
+<p align="justify">An application written in Java using SWT toolkit which incorporates Machine learning algorithm into it for prediction of an a certain event(Currently limited to rainfall prediction).</p>
+</div>
+</div>
 </div>
   <div class="section">
     <h2>Education</h2>
@@ -56,7 +65,7 @@ Students were given a basic understanding of the file system hierarchy found in 
           <p align="justify"> Studied engineering in SASTRA. Got diverted towards Machine Learning and Artifical Intelligence. Presented a paper related to Climate Prediction model using 
 Machine Learning algorithm at INEMREC seminar organized by Indian Meterological Society.
 <ul> <li> Ambassador of <strong> openSUSE </strong> project</li>
-<li> Dean\'s List of Merit Certificate </li>
+<li> Has been in Dean\'s List of Merit</li>
 </ul></p>
         </div>
       </div>
