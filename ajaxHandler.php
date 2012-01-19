@@ -54,6 +54,24 @@ Students were given a basic understanding of the file system hierarchy found in 
 <p align="justify">An application written in Java using SWT toolkit which incorporates Machine learning algorithm into it for prediction of an a certain event(Currently limited to rainfall prediction).</p>
 </div>
 </div>
+
+<div class="item">
+<h3><a href="https://github.com/psibi/Moony-Creator">Moony Creator</a></h3>
+<h4>File System Creator under Linux</h4>
+<div class="date">JAN 2009 - MAY 2010</div>
+<div class="description">
+<p align="justify">Moony Creator is a file system creator used for formatting storage services like hard disk, pendrive etc. It provides a GUI for creating a filesystem while using backend Linux utilities like mkfs. Used Python language for creating the program and used Qt libraries for creating the graphical frontend.</p>
+</div>
+</div>
+
+<div class="item">
+<h3><a href="http://codexengine.sourceforge.net">Codex Engine</a></h3>
+<h4>Multimedia utility</h4>
+<div class="date">JAN 2009 - AUG 2009</div>
+<div class="description">
+<p align="justify">A bash script for enabling various proprietary multimedia formats in Linux by providing access to various shared libraries of gstreamer and xine and registering their plugins.</p>
+</div>
+</div>
 </div>
   <div class="section">
     <h2>Education</h2>
