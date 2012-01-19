@@ -1,7 +1,7 @@
 <?php /*class section division is for splitting into various divisions. */
 $more = '
-    <div class="section"> 
-      <h2>Work Experience</h2>
+         <div class="section"> 
+      	 <h2>Work Experience</h2>
       <div class="item">
         <h3><a href="http://drdo.gov.in">Defence Research and Development Organisation</a></h3>
         <h4>Embedded Programmer</h4>
@@ -26,9 +26,26 @@ $more = '
           <p align="justify">I tutored students in open source technologies and how to use Linux platform for their daily use. All the classes were conducted in SASTRA University. Most of them were undergraduate students. I worked with the students for making them familiar with the history of open source and how to work comfortably on a KDE and a GNOME Desktop environment.
 </p><p>
 Students were given a basic understanding of the file system hierarchy found in basic UNIX systems. Basic shell scripting was taught to them.</p>
-        </div>
+         </div>
+      	</div>
       </div>
-    </div>
+<div class="section">
+<h2>Projects</h2>
+<div class="item">
+<h3><a href="https://github.com/psibi/Neuron">Neuron</a></h3>
+<h4>A Neural Network Simulator</h4>
+<div class="date">NOV 2011 - JAN 2012</div>
+<div class="description">
+<p aligh="justify">A Artificial Neural Network simulator with following features:
+<ul>
+<li>Supports four standard algorithms: INCREMENTAL, BATCH, QPROP, RPROP</li>
+<li>Both Fixed and Evolving Network topology supported</li>
+<li>Persistence of previous Network configuration even on fresh startup</li>
+<li>Performs Supervised Function Approximation</li>
+</ul>
+</div>
+</div>
+</div>
   <div class="section">
     <h2>Education</h2>
     <div class="item">
