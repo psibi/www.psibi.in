@@ -61,7 +61,7 @@ $("a#pic").fancybox({
     <div id="story">
       <h1>Sibi</h1>
       <h2>-- Programmer / Hacker / Free Software Enthusiast</h2>
-      <p>Any <strong>intelligent fool</strong> can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.</p>
+      <p align="justify">Origined from the port city of Tuticorin and spent most parts of my childhood in the Awadh region Lucknow, I'm a Pythonists by nature and a free software enthusiast by mind who has been dazzled by the spirit of Unix.</p>
       
     </div>
     <ul id="contact">
@@ -86,7 +86,7 @@ $("a#pic").fancybox({
   <div id="more">  <!--This division is for displaying data when the button See More is clicked-->
   </div>
   <div id="footer">
-    <p>&copy; Sibi | psibi.in | <small>Last updated on Nov. of '11.</small></p>
+    <p>&copy; Sibi | psibi.in | <small>Last updated on Jan. of '12.</small></p>
   </div>    
 </body>
 </html>
