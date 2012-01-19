@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Sibi</title>
-  
+  <meta name="keywords" content="sibi, sibi.in, psibi, sastra, kumbakonam" />   
   <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />   
   <link rel="stylesheet" href="js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
