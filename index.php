@@ -61,7 +61,7 @@ $("a#pic").fancybox({
     <div id="story">
       <h1>Sibi</h1>
       <h2>-- Programmer / Hacker / Free Software Enthusiast</h2>
-      <p align="justify">Origined from the port city of Tuticorin and spent most parts of my childhood in the Awadh region Lucknow, I'm a Pythonists by nature and a free software enthusiast by mind who has been dazzled by the spirit of Unix.</p>
+      <p align="justify">Origined from the port city of Tuticorin and spent most parts of my childhood in the Awadh region Lucknow, I'm a Pythonist by nature and a free software enthusiast by mind who has been dazzled by the spirit of Unix.</p>
       
     </div>
     <ul id="contact">
@@ -77,7 +77,7 @@ $("a#pic").fancybox({
           <a href="http://twitter.com/psibi" target="_blank"><img src="images/social/twitter.png" alt="Follow me in twitter" /></a> 
           <a href="http://linkedin.com/in/psibi" target="_blank"><img src="images/social/linkedin.png" alt="Connect in Linkedin" /></a> 
           <a href="http://identi.ca/psibi" target="_blank"><img src="images/social/identica.png" alt="Follow me in identi.ca" /></a> 
-          <a href="https://github.com/psibi" target="_blank"><img src="images/social/github.png" alt="Check out my github profile" /></a>
+          <a href="http://github.com/psibi" target="_blank"><img src="images/social/github.png" alt="Check out my github profile" /></a>
         </div>
       </li>
     </ul>
@@ -86,7 +86,7 @@ $("a#pic").fancybox({
   <div id="more">  <!--This division is for displaying data when the button See More is clicked-->
   </div>
   <div id="footer">
-    <p>&copy; Sibi | psibi.in | <small>Last updated on Jan. of '12.</small></p>
+    <p>&copy; Sibi | psibi.in | <small>Last updated on Feb. of '12.</small></p>
   </div>    
 </body>
 </html>
