@@ -113,13 +113,13 @@ Machine Learning algorithm at INEMREC seminar organized by Indian Meterological 
       <div class="item">
         <h3>Web Technologies</h3>
         <div class="description">
-          <p>HTML, CSS, Javascript, jQuery</p>
+          <p>HTML, CSS, Javascript, jQuery, Django, PHP</p>
         </div>
       </div>
       <div class="item">
         <h3>DBMS</h3>
         <div class="description">
-          <p>MySQL, Oracle</p>
+          <p>MySQL, Oracle, SQLite</p>
         </div>
       </div>
     </div>
