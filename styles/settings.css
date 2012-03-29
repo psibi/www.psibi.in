@@ -1,0 +1,57 @@
+/*
+
+Template name: Me
+Author: Magna Themes
+Support: http://www.magna-themes.com/support
+
+*/
+
+/*--- 1. General typography ---*/
+body { font-family: 'Droid Sans', "Trebuchet Ms", verdana; font-size: 15px; color: #666; background: #F8F8F8; }
+a, .link { color: #990000; }
+::selection, ::-moz-selection{ background: #272727; color: #FFF; }
+h1, h2,  h3, h4, h5, h6, h1 a, h2 a,  h3 a, h4 a, h5 a, h6 a { color: #333; font-family: 'Fjord One', arial, verdana; font-weight: normal; }
+div.title h2 { color: #232323; }
+div.title h2 span { background: #F8F8F8; }
+
+/*--- 2. Navigation ---*/
+ul.menu { border-top: 1px solid #CCC; border-bottom: 1px solid #CCC; }
+ul.menu li { font-size: 16px; font-family: 'Fjord One', 'Times New Roman', serif; } /* Replaced by cufon */
+ul.menu li a { color: #272727; }
+ul.menu li a:hover { color: #666; }
+div#hidden_menu { background: #272727; }
+div#hidden_items ul li { font-family: 'Fjord One', 'Times New Roman', serif; } /* Replaced by cufon */
+div#hidden_items ul li a { color: #F8F8F8; }
+
+/*--- 3. Intro ---*/
+#intro { font-family: 'Fjord One', 'Times New Roman', serif; color: #414141; }
+
+/*--- 4. Portfolio ---*/
+ul#portfolioFilter li a { font-family: 'Fjord One', 'Times New Roman', serif; font-size: 14px; text-transform: uppercase; color: #333; }
+ul#portfolioFilter li.active a { color: #999; }
+
+/*--- 5. Services ---*/
+.icon_container { border: 1px solid #272727; }
+.icon { background: #272727; }
+.services_intro p { color: #414141; font-family: 'Fjord One', 'Times New Roman', serif; }
+
+/*--- 6. About ---*/
+#about p { font-size: 17px; color: #414141; font-family: 'Fjord One', 'Times New Roman', serif; }
+
+/*--- 7. Contact ---*/
+#contact_form input[type="text"], #contact_form textarea { font-size: 15px; font-family: 'Fjord One', 'Times New Roman', serif; color: #333; border-bottom: 1px dashed #CCC; }
+#contact_form button { background: #272727; font-family: 'Droid Sans', arial, verdana; font-size: 17px; color: #FFF; }
+#contact_info p { font-family: 'Fjord One', 'Times New Roman', serif; }
+#contact_info ul { font-family: 'Fjord One', 'Times New Roman', serif; }
+
+/*--- 10. Smartphones & Tablets ---*/
+/*  Screen <= 750px */
+@media screen and (max-width: 750px) {
+     ul.menu li, div#hidden_items ul li { margin-left: 40px; font-size: 15px; padding-top: 10px; }
+     ul.menu li:first-child { margin-left: 0px; }
+}
+/*  Screen <= 650px */
+@media screen and (max-width: 650px) {
+     ul.menu li, div#hidden_items ul li { margin-left: 30px; font-size: 13px; padding-top: 10px; }
+     ul.menu li:first-child { margin-left: 0px; }
+}
